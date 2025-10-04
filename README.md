@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Arce04&layout=compact&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Arce04&layout=compact&theme=dracula&hide=html,css" />
