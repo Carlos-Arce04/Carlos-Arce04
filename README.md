@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Carlos;Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Carlos;Software+Developer;Game+Dev+Hobbyist" alt="Typing SVG" />
 </p>
 
 <h3 align="center">👨‍💻 About Me</h3>
@@ -7,7 +7,8 @@
 <p align="center">
  👋 I'm a <b>22-year-old Computer Engineering student at TEC</b><br>
  💻 Experienced in <b>Full Stack Web & Mobile Dev (React/Native, Python, Java)</b><br>
- 🛢️ Passionate about the <b>Data Space & SQL (PostgreSQL)</b><br>
+ 🛢️ Proficient in <b>SQL (PostgreSQL)</b><br>
+ 🌱 Interested in the <b>Data Space & Automation</b><br>
  🚀 Committed to <b>Agile teamwork & building efficient software</b>
 </p>
 
@@ -19,7 +20,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,go,java,js,nodejs,express,react,unity,postgres,firebase,gcp,supabase&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,cs,go,java,js,nodejs,express,react,unity,postgres,firebase,gcp,supabase&perline=7" />
   </a>
 </p>
 
@@ -29,6 +30,22 @@
   </ul>
 </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/carlos-arce-820829388/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a><a href="mailto:carlosarcegonzalez10@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" height="50" width="50" /></a><a href="https://discord.com/users/411733154823536660" target="blank" title="Discord: arce1179"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/carlos-arce-820829388/" target="blank">
+        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:carlosarcegonzalez10@gmail.com" target="blank">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/411733154823536660" target="blank" title="Discord: arce1179">
+        <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
